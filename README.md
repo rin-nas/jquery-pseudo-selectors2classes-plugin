@@ -6,7 +6,8 @@ JS код ниже по событиям браузера для элемент�
 в текущий и родительский элемент. Появляется возможность достичь лучшего интерактивного дизайна страниц
 (включая старые браузеры), написав CSS правила, использующие эти классы.
 Можно делать зависимость родительского элемента от текущего.
-|HTML attribute 		|CSS3	pseudo class		|Replacement class in	current element	|Replacement class in	parent element	|Replacement parent element example|
+| HTML attribute 		| CSS3	pseudo class	| Replacement class in	current element	| Replacement class in	parent element	|Replacement parent element example |
+| --- | --- | --- | --- | --- |
 -------------------------------------------------------------------------------------
 -			:hover			.hover			has-*-hover			has-radio-hover
 -			:focus			.focus			has-*-focus			has-email-focus
