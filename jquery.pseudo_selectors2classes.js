@@ -1,5 +1,6 @@
 /**
- *
+ * jQuery pseudo selectors to classes plugin
+ * 
  * @copyright Rinat Mukhtarov <rin-nas@ya.ru>
  * @version 2.5
  */
