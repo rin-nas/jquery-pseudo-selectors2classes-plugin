@@ -15,4 +15,15 @@ disabled	|:disabled	|.disabled		|has-*-disabled		|has-submit-disabled
 
 * - это тип тега (атрибут type) или название самого тега, если типа нет.
 
-Демо: http://jsfiddle.net/qp8eoaxq/14/
+## Использование
+
+Нужно просто включить файл на HTML странице после включения библиотеки jQuery
+
+```html
+<script src="/js/vendor/jquery-2.1.1.min.js"></script>
+<script src="/js/vendor/jquery.pseudo_selectors2classes.js?v=2.5"></script>
+```
+
+## Демо
+
+http://jsfiddle.net/qp8eoaxq/14/
