@@ -1,6 +1,6 @@
 /**
  * jQuery pseudo selectors to classes plugin
- * 
+ * @link https://github.com/rin-nas/jquery-pseudo-selectors2classes-plugin
  * @copyright Rinat Mukhtarov <rin-nas@ya.ru>
  * @version 2.5
  */
