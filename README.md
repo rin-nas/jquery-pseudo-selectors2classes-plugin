@@ -5,15 +5,15 @@
 
 HTML<br> attribute | CSS3<br>	pseudo class | Replacement<br> class in<br>	current element | Replacement<br> class in<br> parent element | Replacement<br> class in<br> parent element example
 ---       | ---       | ---         | ---             | ---         
--			    |:hover			|.hover			  |has-*-hover			|has-radio-hover
--			    |:focus			|.focus			  |has-*-focus			|has-email-focus
+—			    |:hover			|.hover			  |has-*-hover			|has-radio-hover
+—			    |:focus			|.focus			  |has-*-focus			|has-email-focus
 checked		|:checked		|.checked		  |has-*-checked		|has-checkbox-checked
-selected	|-				  |.selected		|has-*-selected		|has-option-selected
+selected	|—				  |.selected		|has-*-selected		|has-option-selected
 readonly	|:read-only	|.read-only		|has-*-read-only	|has-text-readonly
 disabled	|:disabled	|.disabled		|has-*-disabled		|has-submit-disabled
--			    |:enabled		|.enabled		  |has-*-enabled		|has-select-enabled
+—			    |:enabled		|.enabled		  |has-*-enabled		|has-select-enabled
 
-* - это тип тега (атрибут type) или название самого тега, если типа нет.
+`*` — это тип тега (атрибут type) или название самого тега, если типа нет.
 
 ## Использование
 
